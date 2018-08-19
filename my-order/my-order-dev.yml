@@ -3,4 +3,4 @@ spring:
     name: my-order
 
 info:
-  profile.name: dev
+  profile.name: myorder-dev

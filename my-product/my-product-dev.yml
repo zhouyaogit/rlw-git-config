@@ -3,4 +3,4 @@ spring:
     name: my-product
 
 info:
-  profile.name: dev
+  profile.name: myproduct-dev

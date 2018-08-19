@@ -3,4 +3,4 @@ spring:
     name: my-order
 
 info:
-  profile.name: local
+  profile.name: myorder-local
