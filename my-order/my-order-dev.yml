@@ -1,6 +1,2 @@
-spring:
-  application:
-    name: my-order
-
 info:
   profile.name: myorder-dev
